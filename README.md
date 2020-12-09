@@ -1,6 +1,6 @@
 <h1 align="center">ExpressJS - Express-O Coffee RESTfull API</h1>
 
-This project is the backend of my project, Express-O Coffee. Its main purpose is to make it easier for store owners to checkout and manage data in the database. [More about Express](https://en.wikipedia.org/wiki/Express.js)
+This project is the backend of my project, Express-O Coffee. Its main purpose is to make it easier for store owners to checkout and manage data in the database.[More about Express](https://en.wikipedia.org/wiki/Express.js)
 
 ## Built With
 
