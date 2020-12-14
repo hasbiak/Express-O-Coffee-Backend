@@ -23,7 +23,7 @@ This project is the backend of my project, Express-O Coffee. Its main purpose is
 5. Create a database with the name express-o, and Import file sql to **phpmyadmin**
 6. Open Postman desktop application or Chrome web app extension that has installed before
 7. Choose HTTP Method and enter request url.(ex. localhost:3000/)
-8. You can see all the end point [here](https://documenter.getpostman.com/view/9852901/TVmS8Fce)
+8. You can see all the end point [here](https://documenter.getpostman.com/view/12329591/TVsoHAi9)
 
 ## Set up .env file
 
@@ -41,3 +41,7 @@ PORT=3000 //Port where express is running
 ## License
 
 © [Hasbi Alwi Kusmana](https://github.com/hasbiak/)
+
+## Link Postmant
+
+Link : https://documenter.getpostman.com/view/12329591/TVsoHAi9
