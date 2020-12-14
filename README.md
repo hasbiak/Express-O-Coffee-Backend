@@ -38,7 +38,7 @@ DB_DATABASE=express-o //Database Name
 PORT=3000 //Port where express is running
 ```
 
-## Link Postmant
+## Link Postman
 
 https://documenter.getpostman.com/view/12329591/TVsoHAi9
 
