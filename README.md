@@ -40,8 +40,6 @@ PORT=3000 //Port where express is running
 
 ## Link Postmant
 
-# documenter
-
 https://documenter.getpostman.com/view/12329591/TVsoHAi9
 
 ## License
